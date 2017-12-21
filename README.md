@@ -1,2 +1,2 @@
 # Santa Claus
-- HTML, CSS, SAAS
+- HTML, CSS
